@@ -1,2 +1,0 @@
-# test-repository
-testing repository
